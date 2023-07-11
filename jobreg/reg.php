@@ -16,11 +16,11 @@
 		<form action="config.php" method="post">
 			<div class="container">
 				<h1><center>Job registration form</center></h1>
-				<p><center><b>Fill up the form</center></b></p>
+				<center><p><b>Fill up the form</b></p></center>
 				<center><label for="fname" style="color:ghostwhite; font-size:160%;">First name &nbsp;</label>
-				<input type="text" name="fname"required><br><br></center>
+				<input type="text" name="fname"required></center><br><br>
 				<center><label for="lname" style="color:ghostwhite; font-size:160%;">Last name &nbsp;</label>
-				<input type="text" name="lname"required><br><br></center>
+				<input type="text" name="lname"required></center><br><br>
 				<center><label for="email" style="color:ghostwhite; font-size:160%;">Email id &nbsp;&nbsp;&nbsp;&nbsp;</label>
 				<input type="email" name="email"required><br><br></center>
 				<center>
